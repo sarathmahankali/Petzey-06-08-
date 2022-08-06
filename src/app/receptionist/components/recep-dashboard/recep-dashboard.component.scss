@@ -1,0 +1,160 @@
+.page {
+    color: white;
+    padding: 0 1rem;
+    background: #f1f5f9;
+    &__box {
+      min-height: 120px;
+      background: #1e293b;
+      margin: 0 -1rem;
+      font-size: 36px;
+    }
+    &__content {
+      min-height: calc(100vh - 178px);
+      border-radius: 10px;
+      margin-top: -10rem;
+      background: white;
+      color: black;
+      font-size: 2rem;
+      &-data {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+    }
+  }
+  
+  
+  // //Our CSS from here
+  
+  .js-simplebar{
+    background-color: #222E3C;
+    height:700px;
+    width: 80%;
+    color: white;
+  }
+  .align-middle{
+     color: white;
+  }
+  .bookappointment{
+    margin-top: -48px;
+    margin-left: 128px;
+  }
+  .Status{
+    margin-left:20px;
+  }
+  .sidebar{
+    background-color: #18385c;
+    height: 601px;
+    /* width: 170px; */
+    margin-top: -83px;
+    width: 15%;
+    float: left;
+    justify-content: left;
+    text-align:center;   
+  
+  
+  }
+  .nav-item{
+    font-size: large;
+  
+  }
+  .nav-link{
+    color: rgb(208, 212, 215);
+    font-size:large;
+  }
+  .nav-link:hover{
+    background-color: #18385c;
+  }
+  
+  .sidebar-sticky{
+    padding-top: 80px;
+  }
+  .doctor_layout{
+    margin-left: 139px;
+    margin-top: -525px;
+    margin-right: 30px;
+    width: 1219px;
+  }
+  .container{
+    width: 1000px;
+  }
+  .card-top{
+    width: 220px;
+    height: 98px;
+  }
+  .right{
+    width: 40%;
+    float: right;
+    justify-content: right;
+    text-align: left;
+  }
+  .row{
+    margin-bottom: 20px;
+  }
+  .form-control{
+    width: 140px;
+  }
+  .card-right{
+    margin-top: -87px;
+    margin-left: 112px;
+    width: 111px;
+  }
+  
+  .card-left{
+    margin-left: 11px;
+    margin-top: 14px;
+  }
+  .card-middle{
+    margin-left: 14px;
+    margin-top: -25px;
+    margin-bottom: -16px;
+  }
+  .doctor_layout {
+    margin-left: -107px;
+      margin-top: 16px;
+      margin-right: 59px;
+      width: 1198px;
+  }
+  .card-bottom
+  {
+    margin-bottom: 5px;
+    margin-top: -20px;
+    margin-left: 9px;
+  }
+  .details{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: large;
+  }
+  .card{
+    border: 1px solid #595757;
+    margin:30px;
+    display: inline-block;
+    box-shadow: 3px 5px 7px grey;
+  }
+  .card-deck{
+    display: inline-block;
+  
+  }
+  .feedback{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: large;
+  }
+  .vedio-call,.chat,.call{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .middle-right
+  {
+    margin-top: -31px;
+    margin-bottom: 30px;
+    margin-left: 103px;
+    margin-right: 20px;
+  }

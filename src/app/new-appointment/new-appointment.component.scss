@@ -1,0 +1,169 @@
+*{
+    box-sizing: content-box;
+  }
+  p{
+    margin: 17px 4px 0px;
+  }
+  .card-container {
+      display: inline-block;
+      }
+      .card {
+      border-radius: 9px;
+      box-shadow: 12px 16px 24px -10px rgba(176, 162, 176, 0.78);
+      }
+      
+      body {
+      background-color: #e7e9eb;
+      }
+      
+      .card-top {
+      width: 220px;
+      height: 98px;
+      }
+      .card {
+      flex-direction: row;
+      width: 50px;
+      }
+      
+      .card-right {
+      margin-top: -92px;
+      margin-left: 84px;
+      }
+      
+      .card-left {
+      margin-left: 11px;
+      margin-top: 14px;
+      }
+      
+      .card-middle {
+      margin-left: 14px;
+      margin-top: -25px;
+      margin-bottom: -16px;
+      }
+      
+      .card-bottom {
+      margin-bottom: 5px;
+      margin-top: -20px;
+      margin-left: 9px;
+      }
+      
+      .vedio-call,
+      .chat,
+      .call {
+      margin-top: 5px;
+      margin-bottom: 5px;
+      margin-left: 10px;
+      margin-right: 10px;
+      }
+      
+      p {
+      margin: 10px 0px 0px;
+      }
+      
+      .title {
+      color: grey;
+      font-size: 18px;
+      }
+      
+      a {
+      text-decoration: none;
+      font-size: 14px;
+      color: black;
+      }
+      
+      
+      .doctor_layout {
+      margin-left: 139px;
+      margin-top: -525px;
+      margin-right: 30px;
+      width: 1219px;
+      }
+      .Details {
+        padding-bottom: 2px;
+      }
+      .container {
+        width: 1250px;
+      }
+      .card-top {
+        width: 220px;
+        height: 98px;
+      }
+      .right {
+        width: 38%;
+        float: right;
+        justify-content: right;
+        text-align: left;
+      }
+      .row {
+        margin-bottom: 20px;
+      }
+      .form-control {
+        width: 140px;
+      }
+      .card-right {
+        margin-top: -92px;
+        margin-left: 84px;
+      }
+      .card-left {
+        margin-left: 11px;
+        margin-top: 14px;
+      }
+      .card-middle {
+        margin-left: 14px;
+        margin-bottom: -16px;
+        float: right;
+        margin-top: -60px;
+      }
+      .card-bottom {
+        margin-bottom: 5px;
+        margin-top: -20px;
+        margin-left: 9px;
+      }
+      .details {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        font-size: large;
+      }
+      .feedback {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        font-size: large;
+      }
+      .vedio-call,
+      .chat,
+      .call {
+        margin-top: 5px;
+        margin-bottom: 5px;
+        margin-left: 10px;
+        margin-right: 10px;
+      }
+      .middle-right {
+        margin-left: -209px;
+        margin-top: 126px;
+        margin-bottom: -16px;
+        float: right;
+      }
+      #leftbox {
+        float: left;
+        background: rgb(254, 253, 253);
+        width: 25%;
+        height: 280px;
+      }
+      #middlebox {
+        float: left;
+        background: rgb(246, 250, 246);
+        width: 50%;
+        height: 280px;
+      }
+      #rightbox {
+        float: left;
+        background: rgb(254, 254, 255);
+        width: 100%;
+        height: 280px;
+        position: relative;
+        bottom: 0;
+      }
